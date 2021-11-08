@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Starbucks Capstone Project - Machine Learning Engineer Nanodegree
 
 This repository contains code and associated files for the final project of the Machine Learning Engineer Nanodegree. 
